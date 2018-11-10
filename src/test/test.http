@@ -1,0 +1,3 @@
+GET http://172.17.0.2:8080/RESTExample/api/json
+Accept: application/json
+###
